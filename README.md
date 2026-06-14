@@ -1,6 +1,6 @@
 # Template for setting up RCM Cooperative partner repositories
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About this Repository
@@ -87,6 +87,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#doc-cassgvp" title="Documentation">📖</a> <a href="#fundingFinding-cassgvp" title="Funding Finding">🔍</a> <a href="#ideas-cassgvp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-cassgvp" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#doc-EKaroune" title="Documentation">📖</a> <a href="#fundingFinding-EKaroune" title="Funding Finding">🔍</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EKaroune" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/l-ballantyne"><img src="https://avatars.githubusercontent.com/u/128156586?v=4?s=100" width="100px;" alt="Lyndsey Ballantyne"/><br /><sub><b>Lyndsey Ballantyne</b></sub></a><br /><a href="#doc-l-ballantyne" title="Documentation">📖</a> <a href="#fundingFinding-l-ballantyne" title="Funding Finding">🔍</a> <a href="#ideas-l-ballantyne" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-l-ballantyne" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
