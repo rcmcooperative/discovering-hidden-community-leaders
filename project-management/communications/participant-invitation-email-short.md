@@ -1,4 +1,4 @@
-# Email template for participant invitation for mapping and interviews: Sort
+# Email template for participant invitation for mapping and interviews: Short
 
 -------
 
