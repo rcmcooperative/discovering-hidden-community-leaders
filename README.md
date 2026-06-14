@@ -43,7 +43,7 @@ We aim to gathering qualitative evidence on how a lack of formalisation may affe
 ### Members
   * **[Lyndsey Ballantyne](https://www.southampton.ac.uk/people/62d9k7/mrs-lyndsey-ballantyne)** (Project Lead, [@l-ballantyne](https://github.com/l-ballantyne)) has led large teams responsible for delivering major public programmes, including international conferences and a national advocacy campaign, the [Hidden REF](http://hidden-ref.org/). 
   She brings valuable strategic insight from her experience managing the national RSE community.
-  * **[Cassandra Gould van Praag](http://rcmcooperative.com/)** (Colead, [@cassgvp](http://github.com/cassgvp)) is Executive Director of RCM Cooperative, a collective of RCMs who work with and for communities to develop their capacity for equitable, resilient and collaborative research. 
+  * **[Cassandra Gould van Praag](http://rcmcooperative.com/)** (Co-lead, [@cassgvp](http://github.com/cassgvp)) is Executive Director of RCM Cooperative, a collective of RCMs who work with and for communities to develop their capacity for equitable, resilient and collaborative research. 
   Cass has a background in qualitative and quantitative psychology and community engagement and brings experience in community research and data management. 
   * **[Emma Karoune](https://www.turing.ac.uk/people/research-associates/emma-karoune)** (Co-lead, [@ekaroune](https://github.com/ekaroune)) is a Principle Investigator at [The Alan Turing Institute](http://turing.ac.uk/) and Co-Founder of RCM Cooperative. 
   Emma leads projects building capacity in data science and AI with a particular focus on understanding of skills, roles and team science approaches in biomedical data science. 
@@ -115,12 +115,12 @@ This work is licensed under the **MIT license (code) and Creative Commons Attrib
 
 ## Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
+- **Citation Instructions:** <mark>Details to follow</mark>
 - **Acknowledgments:** This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/the-turing-way/reproducible-project-template.
 
 ## Contact
 
-- **Reach Out:** Please contact cassandra.gouldvanpraag@rcmcooperative.com with any questions about this project
+Please contact cassandra.gouldvanpraag@rcmcooperative.com with any questions about this project
 
 
 
