@@ -1,4 +1,24 @@
 {
   "projectName": "discovering-hidden-community-leaders",
-  "projectOwner": "rcmcooperative"
+  "projectOwner": "rcmcooperative",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "cassgvp",
+      "name": "Cassandra Gould van Praag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43407869?v=4",
+      "profile": "https://github.com/cassgvp",
+      "contributions": [
+        "doc",
+        "fundingFinding",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ]
 }
