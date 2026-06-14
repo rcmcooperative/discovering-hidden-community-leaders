@@ -1,73 +1,142 @@
-# Template for setting up RCM Cooperative partner repositories
+# Discovering hidden Community leaders
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About this Repository
 
-This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+This repository contains the documentation, research materials, and outputs for the [DisCouRSE](https://discourse-network.github.io) funded Discovering Hidden Community Leaders project, a collaboration between [University of Southampton](http://southampton.ac.uk),  [Software Sustainability Institute (SSI)](http://software.ac.uk/) and [RCM Cooperative](http://rcmcooperative.com/).
 
-When reusing this repository, update the information below with information about the intended partnership.
-
-Note after templating this directory, you may wish to create an additional directory called `private`. 
-Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
-This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
+This project follows open research principles to deliver FAIR and openly licensed materials. 
+Publication of these materials supports transparency in this project, and reproducibility of similar work. All materials from the project are published as open as possible, as closed as necessary.
 
 ## Vision and Mission
-See materials from [Community Pulse](https://www.communitypulse.io/50-metrics-kpis-and-okrs/) for more guidance on developing the vision and mission.
 
-- **Vision:** A short phrase describing the future you are ultimately working towards (your final destination or desired end state).
-- **Mission:** A one-sentence statement describing the reason your organization or program exists (what you do + who/what you do this for).
+- **Vision:** A research ecosystem where Research Community Management (RCM) is formally recognised, supported, and professionalised as a distinct and essential role.
 
-## About
+- **Mission:** To investigate and map the scope, value, and impact of RCM activities within the UK dRTP landscape, providing the robust evidence needed to secure formal institutional backing and sustainable career pathways.
 
-Motivation and background in a nutshell.
+## About the project
+
+Across the UK’s Research Technical Professional (RTP) landscape, many individuals informally undertake Research Community Management (RCM) activities—such as coordinating open source contributions and sustaining communities of practice—without formal recognition, support, or inclusion in job descriptions. 
+This lack of visibility and institutional backing creates a fragile and uneven foundation for community leadership. 
+It limits incentives and career development opportunities for those performing this vital work, and introduces equity barriers in relation to unrecognised "care" and "facilitatory" workloads. 
+
+This project seeks to build a deeper understanding of the scope, value, and impact of RCM within the research ecosystem. 
+We aim to gathering qualitative evidence on how a lack of formalisation may affects leadership and progression, to drive the institutional change necessary to support and sustain the socio-technical infrastructure vital to collaboration and innovation.
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- **Goals:** 
+  * Build a deeper understanding of the scope, value, and impact of RCM within the research ecosystem.
+  * Identify key RCM competencies to extend the DIRECT Framework (specifically the Community and Outreach competencies).
+  * Map existing RTPs who perform RCM activities, and organisations who engage the emerging RCM community.
+  * Gather data to support the design of a statistically robust, construct-validated survey targeting the wider UK RTP community.
+  
+- **Outcomes:** 
+  * A series of qualitative interviews exploring RCM competencies, leadership, and career development.
+  * A comprehensive landscape map of existing RCM organisations and communities.
+  * FAIR and openly licensed research materials, datasets, and reports.
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+### Members
+  * **[Lyndsey Ballantyne](https://www.southampton.ac.uk/people/62d9k7/mrs-lyndsey-ballantyne)** (Project Lead, [@l-ballantyne](https://github.com/l-ballantyne)) has led large teams responsible for delivering major public programmes, including international conferences and a national advocacy campaign, the [Hidden REF](http://hidden-ref.org/). 
+  She brings valuable strategic insight from her experience managing the national RSE community.
+  * **[Cassandra Gould van Praag](http://rcmcooperative.com/)** (Colead, [@cassgvp](http://github.com/cassgvp)) is Executive Director of RCM Cooperative, a collective of RCMs who work with and for communities to develop their capacity for equitable, resilient and collaborative research. 
+  Cass has a background in qualitative and quantitative psychology and community engagement and brings experience in community research and data management. 
+  * **[Emma Karoune](https://www.turing.ac.uk/people/research-associates/emma-karoune)** (Co-lead, [@ekaroune](https://github.com/ekaroune)) is a Principle Investigator at [The Alan Turing Institute](http://turing.ac.uk/) and Co-Founder of RCM Cooperative. 
+  Emma leads projects building capacity in data science and AI with a particular focus on understanding of skills, roles and team science approaches in biomedical data science. 
+  She brings expertise in career diversity and professionalisation pathways.
+* **[Oscar Seip](https://www.software.ac.uk/our-people/oscar-seip)** (Co-lead, [@OscarSeip](https://github.com/OscarSeip)) is the Research Community Manager at SSI, who's mission is to help people build better software and more sustainable research software to enable world-class research.
+Oscar has a background in Humanities and network mapping.
+He brings valuable insights about the RCM activties undertake by [SSI Fellows](https://www.software.ac.uk/programmes/fellowship-programme) and policy initiatives support professionalisation of RTP careers. 
+
+
+### Roles & Responsibilities:
+  * **Lyndsey:** Oversees project delivery and provides strategic insight drawn from her extensive experience managing the national RSE community and leading major public programmes like the Hidden REF.
+  * **Cass:** Leads the community research, including supporting ethics and data protection processes, developing the qualitative study design, conducting interviews, performing data analysis, and writing reports.
+  * **Emma:** Co-leads the landscape mapping alongside Oscar, contributes to community research ethics and data protection processes, data analysis, and report writing. 
+  * **Oscar:** Co-leads the landscape mapping alongside Emma, contributes to community research data analysis, and assists with report writing.
+  * *Note: The entire team works collaboratively to maintain open, FAIR documentation practices.*
+
+## Roadmap
+### Project Setup
+- [x] Secure funding
+- [ ] Finalise contracts and data sharing agreements between partners
+- [x] Complete Data Protection Assessment Process (DPAP)
+- [x] Establish Data Management Plan (DMP)
+- [x] Secure institutional ethics approval
+- [x] Build github repository for ongoing collation and publication of project materials
+
+### Landscape mapping
+- [x] Develop data management infrastucture
+- [x] Distribute [data collection tool](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LMsbja9wXlCkSKv1qYh69pUQkgyNzFDR0lWQThFRFFaT09YQlBHV0xXQS4u) ⭐️  **Please complete this form to add your data to the landscape map!**
+- [ ] Synthesis data into interactive map
+- [ ] Public public map
+
+### Qualitative data collection analysis
+- [x] Develop interview script
+- [ ] Conduct qualitative interviews (maximum n = 20)
+- [ ] Perform concurrent thematic analysis of ongoing interviews
+- [ ] Conduct further stakeholder mapping to expand the landscape overview
+
+### Synthesis & Dissemination
+- [ ] Finalize thematic analysis of qualitative interviews
+- [ ] Complete report writing
+- [ ] Openly publish final project report
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
+- **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md)
+- **Code of Conduct:** [Code of Conduct](CODE_OF_CONDUCT.md) ensures a respectful project environment.
+
+## Navigating this repo
+
+Confidential information is store on University of Southampton Sharepoint, including landscape data.
+
+```
+├── assets               <- images and other materials for reuse
+├── CODE_OF_CONDUCT.md   <- expected behaviours of contributors and 
+├── CONTRIBUTING.md      <- how to get involved
+├── docs                 <- processes and procedures for the project
+├── LICENSE.md           <- requirements for reuse
+├── project-management
+│   ├── communications   <- public notices about the project
+│   ├── ethics           <- approved procedures and guidance
+│   ├── meeting-notes    <- ongoing team discussions
+│   └── reports          <- formal write-ups
+└── README.md            <- project welcome page
+```
 
 ## Licensing
 
-This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file for details.
+This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**.  See [LICENSE](LICENSE.md) for details. 
 
 ## Citing & Acknowledgement
 
 - **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+- **Acknowledgments:** This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/the-turing-way/reproducible-project-template.
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
+- **Reach Out:** Please contact cassandra.gouldvanpraag@rcmcooperative.com with any questions about this project
 
 
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [x] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
+- [x] .gitignore file (choose from a template)
+- [x] Create a directory with files for project management (meetings, reports, proposals)
+- [x] Create a directory with files for communications
 - [ ] Create a directory for research analysis
 - [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
+- [x] Create a directory for ethics approval and project policies
 - [ ] Create a directory with files for stakeholders' info and the nature of engagement
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
