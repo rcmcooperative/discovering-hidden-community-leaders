@@ -1,6 +1,6 @@
 # Template for setting up RCM Cooperative partner repositories
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About this Repository
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#doc-EKaroune" title="Documentation">📖</a> <a href="#fundingFinding-EKaroune" title="Funding Finding">🔍</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EKaroune" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/l-ballantyne"><img src="https://avatars.githubusercontent.com/u/128156586?v=4?s=100" width="100px;" alt="Lyndsey Ballantyne"/><br /><sub><b>Lyndsey Ballantyne</b></sub></a><br /><a href="#doc-l-ballantyne" title="Documentation">📖</a> <a href="#fundingFinding-l-ballantyne" title="Funding Finding">🔍</a> <a href="#ideas-l-ballantyne" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-l-ballantyne" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OscarSeip"><img src="https://avatars.githubusercontent.com/u/47109641?v=4?s=100" width="100px;" alt="OscarSeip"/><br /><sub><b>OscarSeip</b></sub></a><br /><a href="#doc-OscarSeip" title="Documentation">📖</a> <a href="#fundingFinding-OscarSeip" title="Funding Finding">🔍</a> <a href="#ideas-OscarSeip" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-OscarSeip" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mdonnay-ssi"><img src="https://avatars.githubusercontent.com/u/214476088?v=4?s=100" width="100px;" alt="Michael Donnay"/><br /><sub><b>Michael Donnay</b></sub></a><br /><a href="#fundingFinding-mdonnay-ssi" title="Funding Finding">🔍</a> <a href="#ideas-mdonnay-ssi" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
